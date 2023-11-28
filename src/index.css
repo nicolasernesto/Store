@@ -24,10 +24,10 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  justify-content: center; /* Centra horizontalmente */
-  min-width: 320px;
-  height: auto; /* O puedes omitir esta propiedad para que el body tome la altura de su contenido */
+ 
+  /* justify-content: center; Centra horizontalmente */
+   
+
 }
 
 h1 {
