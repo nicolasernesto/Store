@@ -1,12 +1,11 @@
+import Layout from '../../Components/Layout'
 
-function Signin() {
-     
-  
+function Sigin() {
     return (
-      <div className='bg-red-100'>
-        Sigin
-      </div>
+      <Layout>
+        SigIn
+      </Layout>
     )
   }
   
-  export default Signin  
+  export default Sigin  
